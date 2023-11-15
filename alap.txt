@@ -10,3 +10,4 @@ dsad
 
 sad
 sd
+dolgok TEXT
